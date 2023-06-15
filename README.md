@@ -2,11 +2,11 @@
 
 > @Brief：该仓库是AMAS-LAB移动机器人设备**Autolabor Pro1 机器人底盘**的介绍和使用文档。
 >
-> @Author：[Li Dong](https://github.com/DoongLi)
+> @Author：[Dong Li](https://github.com/DoongLi)
 >
 > @Date：2023-2-9
 
-![2](Notes/IMG/2.jpg)
+![2](IMG/2.jpg)
 
 ## Autolabor Pro1基本配置介绍
 
@@ -29,6 +29,7 @@
 
 - 1.Autolabor官网**Autolabor Pro1机器人底盘**产品介绍：http://www.autolabor.com.cn/pro/detail/4
 - 2.**Autolabor Pro1机器人底盘**使用文档：http://www.autolabor.com.cn/usedoc/ap1/receipt
+- 3.Autolabor Pro1参考平台搭建：[微信公众平台 (qq.com)](https://mp.weixin.qq.com/s/lrDbr7sqPx4WGQmHqg2luQ)
 
 ## FAQ
 
@@ -40,9 +41,9 @@
 
 ## Update
 
-| Index | Date      | Context                                                      | Todo list                    |
-| ----- | --------- | ------------------------------------------------------------ | ---------------------------- |
-| 1     | 2023-2-9  | 设备到货开箱，基本资料整理，手柄控制方式调试；测试出现严重的漂移问题，已联系厂商进行退换 | 上位机测试平台搭建测试       |
-| 2     | 2023-2-13 | 退换的新底盘到货，测试完成，联系厂家发货3D激光雷达3D打印安装架 | 上位机安装以及3D激光SLAM测试 |
-|       |           |                                                              |                              |
+| Index | Date       | Context                                                      | Todo list                    |
+| ----- | ---------- | ------------------------------------------------------------ | ---------------------------- |
+| 1     | 2023-2-9   | 设备到货开箱，基本资料整理，手柄控制方式调试；测试出现严重的漂移问题，已联系厂商进行退换 | 上位机测试平台搭建测试       |
+| 2     | 2023-2-13  | 退换的新底盘到货，测试完成，联系厂家发货3D激光雷达3D打印安装架 | 上位机安装以及3D激光SLAM测试 |
+| 3     | 2023-6--15 | 实验室将采购第二款Autolabor Pro1                             | Null                         |
 
